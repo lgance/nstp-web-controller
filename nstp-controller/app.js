@@ -1,0 +1,1 @@
+console.log('nstp-contoroller app.js');
